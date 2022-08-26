@@ -1,0 +1,3 @@
+git checkout -b update_script
+git checkout -b main
+git push origin update_script
